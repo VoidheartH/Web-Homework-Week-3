@@ -1,0 +1,131 @@
+.header {
+    font-size: 30px;
+    color: whitesmoke;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 1);
+}
+
+.full-page-div {
+    height: 550px;
+    width: 920px;
+    background-color: gray;
+    margin: auto;
+}
+
+.main-div {
+    height: 500px;
+    width: 600px;
+    padding-left: 160px;
+    padding-right: 160px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.header-div {
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.navigation-bar-div {
+    background-color: orchid;
+    margin-bottom: 10px;
+}
+
+.navigation-item {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 11px;
+}
+
+.search-box {
+    font-size: 11px;
+}
+
+.go-button {
+    background-color: black;
+    color: white;
+    font-size: 11px;
+    border: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.article-div {
+    height: 380px;
+}
+
+.article-text-div {
+    background-color: white;
+    width: 450px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Article-heading {
+    text-align: center;
+    font-size: 25px;
+}
+
+.paragraph {
+    font-size: 11px;
+    width: 420px;
+    padding-left: 10px;
+}
+
+.subsection {
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.realted-div {
+    background-color: orchid;
+    width: 140px;
+    height: 100%;
+    display: inline-block;
+    padding-left: 5px;
+    vertical-align: top;
+}
+
+.related-header-div {
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+    padding-right: 5px;
+}
+
+.related-text {
+    margin: 0px;
+    font-size: 30px;
+}
+
+.related-link-list-div {
+    height: 320px;
+    padding-bottom: 10px;
+}
+
+.unordered-list {
+    margin: 0px;
+}
+
+.hyperlink {
+    font-size: 11px;
+}
+
+.copyright-div {
+    background-color: white;
+    height: 40px;
+}
+
+
+.copyright-text {
+    padding-top: 12px;
+    padding-left: 6px;
+    font-size: 12px;
+}
